@@ -1,0 +1,4 @@
+2019-04-13T00:22:51+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\ajax-actions.php on line 22
+
+2019-04-13T13:31:18+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\custom-header.php on line 14
+

@@ -1,0 +1,8 @@
+2019-04-14T00:02:34+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\media.php on line 16
+
+2019-04-14T00:14:14+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\libraries\geolite2\Reader\Decoder.php on line 5
+
+2019-04-14T02:43:00+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\comment.php on line 27
+
+2019-04-14T06:51:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\class-wp-screen.php on line 15
+
